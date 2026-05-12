@@ -14,5 +14,5 @@ A hybrid security system using **Python (OpenCV)** for biometric authentication 
 3. Security: Uses EEPROM to prevent double-voting.
 
 ## 📁 Folder Structure
-* `Python_Scripts/`: Contains the AI logic and Serial communication.
-* `Arduino_Code/`: Contains the `.ino` sketch for the microcontroller.
+* `Python_Scripts/`: Contains the logic and Serial communication.
+* `Arduino_Code/`: Contains the '.ino' sketch for the microcontroller.
