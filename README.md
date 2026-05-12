@@ -16,3 +16,9 @@ A hybrid security system using **Python (OpenCV)** for biometric authentication 
 ## 📁 Folder Structure
 * `Python_Scripts/`: Contains the logic and Serial communication.
 * `Arduino_Code/`: Contains the '.ino' sketch for the microcontroller.
+
+## 📄 Documentation
+Full project details can be found in the `Documentation/` folder:
+* Project Proposal: Initial scope and objectives.
+* Research Paper: Detailed literature review and methodology.
+* Final Presentation: PPT used for the final defense.
